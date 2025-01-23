@@ -1,0 +1,14 @@
+{
+  "name": "v8",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@sentry/browser": "^8.50.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.11"
+  }
+}
